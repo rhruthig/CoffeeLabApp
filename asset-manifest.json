@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CoffeeLabApp/static/css/main.d7a8513a.css",
+    "main.js": "/CoffeeLabApp/static/js/main.11ef3059.js",
+    "static/js/453.183908db.chunk.js": "/CoffeeLabApp/static/js/453.183908db.chunk.js",
+    "index.html": "/CoffeeLabApp/index.html",
+    "main.d7a8513a.css.map": "/CoffeeLabApp/static/css/main.d7a8513a.css.map",
+    "main.11ef3059.js.map": "/CoffeeLabApp/static/js/main.11ef3059.js.map",
+    "453.183908db.chunk.js.map": "/CoffeeLabApp/static/js/453.183908db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7a8513a.css",
+    "static/js/main.11ef3059.js"
+  ]
+}
