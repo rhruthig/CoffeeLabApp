@@ -1,1 +1,1 @@
-# CoffeeLabApp
+permalink: /index.html
